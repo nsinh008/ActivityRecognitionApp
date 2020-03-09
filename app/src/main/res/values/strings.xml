@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Track Activity</string>
+    <string name="in_vehicle">In Vehicle</string>
+    <string name="running">Running</string>
+    <string name="still">Still</string>
+    <string name="walking">Walking</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
